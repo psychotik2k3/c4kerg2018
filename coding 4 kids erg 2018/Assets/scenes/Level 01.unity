@@ -863,6 +863,11 @@ Prefab:
       propertyPath: damageImage
       value: 
       objectReference: {fileID: 1674726828}
+    - target: {fileID: 120288815768103400, guid: 8274b8a529cfff94f961422338ac580a,
+        type: 2}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 0.10326314
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8274b8a529cfff94f961422338ac580a, type: 2}
   m_IsPrefabAsset: 0
