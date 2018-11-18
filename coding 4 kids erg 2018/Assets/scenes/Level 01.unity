@@ -249,10 +249,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 2006211134}
-  enemy: {fileID: 0}
+  enemy: {fileID: 1467900024807504, guid: 6893a83815bbcb6448cfa8d7c6788b83, type: 2}
   spawnTime: 3
   spawnPoints:
-  - {fileID: 0}
+  - {fileID: 1888608324}
 --- !u!4 &31211259
 Transform:
   m_ObjectHideFlags: 0
